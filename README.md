@@ -133,13 +133,13 @@ Future-Style-Periodic-Table/
 
 ## 🤝 致谢 (Credits)
 
-本项目的灵感来源于网络创作者的分享，在此表示由衷的感谢！
+本项目的完善离不开社区的支持，特别感谢以下贡献者：
 
-- **原创灵感**：[抖音视频链接](https://www.douyin.com/video/7575067444734622385)
+- **代码贡献**：感谢 [Melody Young (@keepwow)](https://github.com/keepwow) 提供的英文适配与国际化支持。
+- **原始灵感**：[抖音视频链接](https://www.douyin.com/video/7575067444734622385)
 - **数据参考**：元素数据基于公开的化学数据库整理
 
-> *如果您是原作者并希望修改署名方式，请随时提交 Issue 或联系我。*
-
+> *如果您希望参与贡献或修改署名方式，请随时提交 Pull Request 或 Issue。*
 ---
 
 ## 📄 开源协议 (License)

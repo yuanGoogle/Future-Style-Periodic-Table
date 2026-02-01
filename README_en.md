@@ -129,12 +129,13 @@ Thanks to the pure static webpage design, this project has excellent portability
 
 ## 🤝 Credits
 
-The inspiration for this project comes from sharing by online creators, and we express our sincere thanks!
+The improvement of this project is inseparable from the support of the community. Special thanks to:
 
+- **Code Contribution**: Thanks to [Melody Young (@keepwow)](https://github.com/keepwow) for providing the English localization and internationalization support.
 - **Original Inspiration**: [Douyin Video Link](https://www.douyin.com/video/7575067444734622385)
-- **Data Reference**: Element data compiled from public chemistry databases
+- **Data Reference**: Element data compiled from public chemistry databases.
 
-> *If you are the original author and wish to modify the attribution method, please submit an Issue or contact me at any time.*
+> *If you wish to contribute or modify the attribution, please feel free to submit a Pull Request or Issue.*
 
 ---
 
